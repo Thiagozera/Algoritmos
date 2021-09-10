@@ -15,6 +15,6 @@ Leia (base)
 escreval ("Digite o vakor da altura do triãngulo:")
 Leia (altura)
 area<-(base*altura)/2
-Escreval ("O valor da area do triãngulo corresponde a:", area,"m²")
+Escreval ("O valor da area do triãngulo corresponde a:", area3:3,"m²")
 
 Fimalgoritmo
